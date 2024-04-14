@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ### Preparation
 * The pretrain_models of MBart can download from [here](https://pan.baidu.com/s/1x6Dl_uuEp_Y8dFoGS-QhNg). The extract code is `4h2w`. It includes MBart_trimmed and mytran.
 
-* The pretrained features of RWTH-PHOENIX-Weather 2014T can download from [here](https://pan.baidu.com/s/19wXiNXtFpC2RGPxNBzIkkA). The extract code is `ekjj`. And then, put it in the `data/features/` folder.
+* The pretrained gloss-free features of RWTH-PHOENIX-Weather 2014T can download from [here](https://pan.baidu.com/s/19wXiNXtFpC2RGPxNBzIkkA). The extract code is `ekjj`. And then, put it in the `data/features/` folder.
 
 ### Train
 ```bash
